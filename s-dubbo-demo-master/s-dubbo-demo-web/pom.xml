@@ -7,9 +7,7 @@
     <groupId>com.neusoft</groupId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.neusoft</groupId>
   <artifactId>s-dubbo-demo-web</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>s-dubbo-demo-web Maven Webapp</name>
   <url>http://maven.apache.org</url>
