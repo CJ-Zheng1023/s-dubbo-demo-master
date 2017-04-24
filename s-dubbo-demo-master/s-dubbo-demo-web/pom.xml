@@ -23,7 +23,7 @@
 	</dependency>
 	<dependency>
 		<groupId>com.neusoft</groupId>
-  		<artifactId>s-demo-facade</artifactId>
+  		<artifactId>s-dubbo-demo-facade</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
 	</dependency>
 	<dependency>
